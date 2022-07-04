@@ -8,9 +8,9 @@ In NBviewer, simply paste the URL of this repository in the text field and selec
 
 ## The best cheat sheets
 
-[Python3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-[Python3 extensive](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf)
-[Jupyter Notebook](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
+A concise [Python3](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) cheat sheet.  
+A [Python3 extensive](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/beginners_python_cheat_sheet_pcc_all.pdf) cheat sheet.  
+A [Jupyter Notebook](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf) cheat.  
 
 
 

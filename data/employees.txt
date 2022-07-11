@@ -1,0 +1,4 @@
+employee_id;last_name;role
+1;Jacobs;ict architect
+2;Howard;programmer
+3;Pierson;data scientist

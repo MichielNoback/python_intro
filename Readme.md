@@ -1,12 +1,18 @@
 # A short Python intro
 
+## Created for
+This tutorial is created for use in Python introductory courses at Hanze University of Applied Science, 
+Groningen, The Netherlands. You are free to use it for yourself; however see the [LICENCE.TXT](LICENCE.TXT) note.
+
+## How to use
 This repo contains a series of notebooks introducing programming concepts in Python in a data science 
 setting.
-You can view these notebooks on [NB viewer](https://nbviewer.org/) (fast, statically) or 
+You can view these notebooks here on github (simply click any file with the `ipynb` extension), 
+on [NB viewer](https://nbviewer.org/) (bice & fast, but static) or 
 on [Binder](https://mybinder.org/) (interactive, but much slower).
 
 In NBviewer, simply paste the URL of this repository in the text field and select one of the 
-notebooks, or paste the URL of a single notebook directly. In Binder it works the same. Enter 
+notebooks, or paste the URL of a single notebook file directly. In Binder it works the same. Enter 
 the URL of this repo and press "launch".
 
 If you wish to work on the exercises, the hints will not look very nice or won't work at all in NBviewer and some IDEs. MyBinder seems OK though.
@@ -27,4 +33,8 @@ A [Python3 extensive](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/
 A [Jupyter Notebook](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf) cheat.  
 
 
+## Copyright 
+Copyright (C) 2022 Michiel Noback, Hanze University of Applied Science, Groningen, The Netherlands  
+
+See [LICENCE.TXT](LICENCE.TXT)
 

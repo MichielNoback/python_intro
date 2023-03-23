@@ -9,7 +9,10 @@ This repo contains a series of notebooks introducing programming concepts in Pyt
 setting.
 You can view these notebooks here on github (simply click any file with the `ipynb` extension), 
 on [NB viewer](https://nbviewer.org/) (bice & fast, but static) or 
-on [Binder](https://mybinder.org/) (interactive, but much slower).
+on [Binder](https://mybinder.org/) (interactive, but much slower).  
+Here is a direct link:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichielNoback/python_intro/HEAD)
 
 In NBviewer, simply paste the URL of this repository in the text field and select one of the 
 notebooks, or paste the URL of a single notebook file directly. In Binder it works the same. Enter 

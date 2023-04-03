@@ -8,15 +8,14 @@ Groningen, The Netherlands. You are free to use it for yourself; however see the
 This repo contains a series of notebooks introducing programming concepts in Python in a data science 
 setting.
 You can view these notebooks here on github (simply click any file with the `ipynb` extension), 
-on [NB viewer](https://nbviewer.org/) (bice & fast, but static) or 
+on [NB viewer](https://nbviewer.org/) (nice & fast, but static) or 
 on [Binder](https://mybinder.org/) (interactive, but much slower).  
-Here is a direct link:
+Here are direct links to both:
 
-[![Binder (slow, interactive)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichielNoback/python_intro/HEAD)
-[![NBviewer (fast, static)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MichielNoback/python_intro/tree/master/)
+[![NBviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MichielNoback/python_intro/tree/master/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MichielNoback/python_intro/HEAD)
 
-
-In NBviewer, simply paste the URL of this repository in the text field and select one of the 
+If you don't trust links: In NBviewer, simply paste the URL of this repository in the text field and select one of the 
 notebooks, or paste the URL of a single notebook file directly. In Binder it works the same. Enter 
 the URL of this repo and press "launch".
 
@@ -39,7 +38,7 @@ A [Jupyter Notebook](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupy
 
 
 ## Copyright 
-Copyright (C) 2022 Michiel Noback, Hanze University of Applied Science, Groningen, The Netherlands  
+Copyright (C) 2022-2023 Michiel Noback, Hanze University of Applied Science, Groningen, The Netherlands  
 
 See [LICENCE.TXT](LICENCE.TXT)
 

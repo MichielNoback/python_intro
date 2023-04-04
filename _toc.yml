@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro.md
+options:  # The options key will be applied to all chapters, but not sub-sections
+  numbered: True
+chapters:
+- file: 00_jupyter
+- file: 01_getting_started.ipynb
+- file: 02_data.ipynb
+- file: 03_flow_control.ipynb
+- file: 04_functions.ipynb
+- file: 05_reading_writing_files.ipynb
+- file: 06_core_library_functions.ipynb
+- file: 07_comprehensions.ipynb
+- file: 08_exception_mechanism.ipynb
+- file: 09_regex.ipynb
+- file: 10_oo_programming.ipynb
+- file: 11_exercises.ipynb
+- file: 12_anaconda
+

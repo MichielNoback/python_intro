@@ -3,6 +3,8 @@
 ## Created for
 This tutorial is created for use in Python introductory courses at Hanze University of Applied Science, 
 Groningen, The Netherlands. You are free to use it for yourself; however see the [LICENCE.TXT](LICENCE.TXT) note.
+The notebooks are bundled into an ebook that can be found here: [https://michielnoback.github.io/pybook](https://michielnoback.github.io/pybook).
+
 
 ## How to use
 This repo contains a series of notebooks introducing programming concepts in Python in a data science 
@@ -28,6 +30,7 @@ For optimal experience with the exercises and interactive studying of the materi
 * in github.com, go to the notebook you wish to work on, open it, click "raw", right-mouse-click on the contents and select "save as". Be sure to remove the `.txt` extension that may be added.
 
 And open with Jupyter Notebook.
+
 
 
 ## The best cheat sheets

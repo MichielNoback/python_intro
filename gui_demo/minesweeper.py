@@ -104,7 +104,6 @@ def add_buttons_grid_to_frame(board):
         col = i % grid_size
         row = i // grid_size
         img = img_grass if board[col][row][1] == 'hidden' else number_imgs[board[col][row][2]]
-
         btn = tk.Button(tiles_frame, 
                         image=img)
         btn.grid(column=col, row=row)

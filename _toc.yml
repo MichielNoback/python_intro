@@ -18,5 +18,5 @@ chapters:
 - file: 09_regex.ipynb
 - file: 10_oo_programming.ipynb
 - file: 11_exercises.ipynb
-- file: 12_anaconda
-
+- file: 12_anaconda.ipynb
+- file: 13_next_steps.ipynb

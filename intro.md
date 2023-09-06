@@ -3,6 +3,7 @@
 ## Target audience
 This tutorial is created for use in Python introductory courses organized at the Institute for Life Science & Technology (Hanze University of Applied Science, Groningen, The Netherlands). 
 The schedule for the three-week Python module can be found [here](course_program.md).
+The description and schedule for the three-day ITANN course can be found [here](ITANN_course_description.ipynb)
 
 ## To get started
 In order to program with Python you will need to have a Python interpreter on your machine. That is because Python is an interpreted language, not compiled.

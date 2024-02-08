@@ -17,6 +17,7 @@ chapters:
 - file: 08_exception_mechanism.ipynb
 - file: 09_regex.ipynb
 - file: 10_oo_programming.ipynb
-- file: 11_exercises.ipynb
-- file: 12_anaconda.ipynb
-- file: 13_next_steps.ipynb
+- file: 11_data_classes.ipynb
+- file: 12_exercises.ipynb
+- file: 13_anaconda.ipynb
+- file: 14_next_steps.ipynb

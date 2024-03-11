@@ -19,5 +19,6 @@ chapters:
 - file: 10_oo_programming.ipynb
 - file: 11_data_classes.ipynb
 - file: 12_exercises.ipynb
-- file: 13_anaconda.ipynb
-- file: 14_next_steps.ipynb
+- file: 13_challenges.ipynb
+- file: 14_anaconda.ipynb
+- file: 15_next_steps.ipynb
